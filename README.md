@@ -1,1 +1,1 @@
-This is a repo for learning git
+This is a repo for learning git, and I've now changed the text in the README file.
